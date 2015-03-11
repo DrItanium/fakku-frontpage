@@ -3,7 +3,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/DrItanium/fakku-toolchain"
+	"github.com/DrItanium/fakku"
 )
 
 func main() {
