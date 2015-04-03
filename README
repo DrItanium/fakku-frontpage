@@ -2,5 +2,5 @@ Prints out the newest content from fakku front page
 
 To install:
 
-go get github.com/DrItanium/fakku-content
+go get github.com/DrItanium/fakku-frontpage
 
